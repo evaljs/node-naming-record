@@ -11,3 +11,7 @@ Machines or host naming are selected from *North American Bird Photography Galle
 |   | Auklet  |   |
 |   | Bittern  |    |
 |Netlify Team|Blackbird
+
+## Reference
+1. [Choosing a Name for Your Computer](https://tools.ietf.org/html/rfc1178)
+2. [A PROPER SERVER NAMING SCHEME](https://mnx.io/blog/a-proper-server-naming-scheme/)

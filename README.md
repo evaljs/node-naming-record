@@ -11,6 +11,8 @@ Machines or host naming are selected from *North American Bird Photography Galle
 |   | Auklet  |   |
 |   | Bittern  |    |
 |Netlify Team|Blackbird
+|GCP Project| Grebe |   |
+|GCP VM | horned | |
 
 ## Reference
 1. [Choosing a Name for Your Computer](https://tools.ietf.org/html/rfc1178)
